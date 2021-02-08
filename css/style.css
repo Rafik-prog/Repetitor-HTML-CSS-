@@ -1,0 +1,313 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	overflow-x: hidden;
+}
+
+
+div.header {
+	width: 100%;
+	height: 200px;
+	background-color: #1a1a21;
+	border: solid 1px black;
+}
+
+h1 {
+	text-align: center;
+	color: white;
+	font-family: 'Roboto', sans-serif;
+	padding-top: 55px;
+}
+
+div.menubar ul.menu {
+	list-style: none;
+	text-align: center;
+	padding-top: 70px;
+	padding-bottom: 10px;
+}
+
+
+
+ul.menu li {
+display: inline;
+margin: 0 70px;
+font-size: 1.3em;
+}
+
+li a {
+	color: white;
+	text-decoration: none;
+}
+
+a {
+	color: white;
+}
+
+a:hover {
+	color: red;
+	cursor: pointer;
+}
+
+div.site_content {
+background-color: #ded0d0;
+height: 100%;
+border: solid 1px black;
+width: 100%;
+}
+
+div.marketing {
+	font-size: 1.3em;
+	font-family: 'Roboto', sans-serif;
+	text-align: center;
+	padding-top: 15px;
+	padding-right: 3px;
+	padding-bottom: 7px;
+	padding-left: 3px;
+	line-height: 1.5;
+}
+
+div.services {
+	font-size: 1.3em;
+	font-family: 'Roboto', sans-serif;
+	height: 800px;
+}
+
+div.review_img {
+	height: 1500px;
+}
+
+img.Review {
+	float: right;
+	margin-right: 10px;
+	border: 3px solid #5d5455;
+	border-radius: 5px;
+}
+
+
+
+
+img.ege {
+float: right;
+margin-right: 10px;
+border: 3px solid #5d5455;
+border-radius: 5px;
+}
+
+div.aboutme {
+	padding-left: 30px;
+	padding-top: 25px;
+	font-size: 1.3em;
+	font-family: 'Roboto', sans-serif;
+	line-height: 1.5;
+}
+
+img.Davtyan {
+float: right;
+margin-right: 10px;
+width:500px; 
+height:600px;
+border: 3px solid #5d5455;
+border-radius: 5px;
+}
+
+img.Davtyan1 {
+float: right;
+margin-right: 15px;
+margin-left: 15px;
+width:450px; 
+height:500px;
+border: 3px solid #5d5455;
+border-radius: 5px;
+}
+
+
+
+li {
+	list-style-type: none;
+}
+
+ul.about li::before {
+	content: "-";
+	padding-right: 0.5em;
+}
+
+ul.about2 li::before {
+	content: "-";
+	padding-right: 0.5em;
+}
+
+
+
+hr {
+	margin-top: 20px;
+}
+
+hr.line {
+	margin-top: 190px;
+}
+
+h1.color {
+	font-family: 'Roboto', sans-serif;
+	color: #100e0e;
+	padding-bottom: 10px;
+}
+
+
+
+div.advantages {
+	padding-left: 30px;
+	padding-top: 25px;
+	font-size: 1.3em;
+	font-family: 'Roboto', sans-serif;
+	line-height: 1.5;
+}
+
+strong {
+	text-transform: uppercase;
+}
+
+div.format {
+	text-indent: 15px;
+	padding-left: 30px;
+	padding-top: 25px;
+	padding-right: 5px;
+	padding-bottom: 20px;
+	font-size: 1.3em;
+	font-family: 'Roboto', sans-serif;
+	line-height: 1.5;
+}
+
+div.footer {
+	width: 100%;
+	height: 265px;
+	background-color: #1a1a21;
+	border: solid 1px black;
+}
+
+div.menubar_foot ul.menu_foot {
+	list-style: none;
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 70px;
+}
+
+ul.menu_foot li {
+	display: inline;
+	margin: 0 70px;
+	font-size: 1.3em;
+
+}
+
+div.contacts  {
+	color: white;
+	float: right;
+	margin-right: 10px;
+	margin-top: 70px;
+	font-size: 1.4em;
+	}
+
+ul.services li {
+	padding-left: 10px;
+	line-height: 3.8;
+	text-decoration: underline;
+}
+
+ul.services p {
+	padding-left: 10px;
+}
+
+div.site_content1 {
+	font-family: 'Roboto', sans-serif;
+	text-align: center;
+	background-color: #ded0d0;
+
+}
+
+div.site_content1 a {
+	color: black;
+}
+
+div.site_content1 a:hover {
+	color: red;
+	cursor: pointer;
+}
+
+div.site_content a:focus {
+	color: red;
+	
+}
+
+div.site_content {
+
+font-family: 'Roboto', sans-serif;
+padding-top: 60px;
+padding-left: 8px;
+
+}
+
+div.site_content a {
+	color: black;
+}
+
+div.site_content a:hover {
+	color: red;
+	cursor: pointer;
+}
+
+div.review_img  {
+	padding-right: 15px;
+padding-top: 20px;
+
+}
+
+div.review_img img {
+	border: 3px solid #5d5455;
+border-radius: 5px;
+margin-bottom: 20px;
+margin-top: 10px;
+}
+
+div.information {
+	margin-top: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
